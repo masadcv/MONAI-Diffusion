@@ -1,0 +1,7 @@
+monai==1.3.0
+monai-generative==0.2.3
+tqdm
+matplotlib
+scikit-image
+pillow
+torch
